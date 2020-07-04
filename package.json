@@ -16,11 +16,11 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/cli": "^10.0.1",
-    "@angular/compiler-cli": "^10.0.2",
     "@angular/animations": "~10.0.2",
+    "@angular/cli": "^10.0.1",
     "@angular/common": "~10.0.2",
     "@angular/compiler": "~10.0.2",
+    "@angular/compiler-cli": "^10.0.2",
     "@angular/core": "~10.0.2",
     "@angular/forms": "~10.0.2",
     "@angular/localize": "~10.0.2",
@@ -34,8 +34,8 @@
     "path": "^0.12.7",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
-    "zone.js": "~0.10.2",
-    "typescript": "~3.9.6"
+    "typescript": "~3.9.6",
+    "zone.js": "~0.10.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.1000.1",
